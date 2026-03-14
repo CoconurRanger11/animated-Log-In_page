@@ -1,6 +1,6 @@
-## ✨ Animated Login & Registration Page
+# ✨ Animated Login & Registration Page
 
-A modern animated login and sign-up interface** built using **HTML, CSS, and JavaScript**.  
+A modern **animated login and sign-up interface** built using **HTML, CSS, and JavaScript**.  
 This project demonstrates smooth UI transitions between login and registration forms with a clean and responsive design.
 
 ---
@@ -17,11 +17,11 @@ This project demonstrates smooth UI transitions between login and registration f
 
 ## 🛠 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome for icons
-- Google Fonts (Montserrat) for typography
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Font Awesome** for icons
+- **Google Fonts (Montserrat)** for typography
 
 ---
 
@@ -40,8 +40,16 @@ This project was created to practice:
 
 The interface includes:
 
-- A Sign In page
-- A Sign Up page
-- A sliding animated panel that switches between both forms.
+- A **Sign In page**
+- A **Sign Up page**
+- A **sliding animated panel** that switches between both forms.
 
 ---
+
+## 👨‍💻 Author
+
+Created as a learning project while exploring **frontend web development**.
+
+---
+
+⭐ If you like this project, feel free to **star the repository** on GitHub!
